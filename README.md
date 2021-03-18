@@ -13,3 +13,10 @@
 # Adicionando ramificação configurada para rastrear ramificação remota 'principal' de 'origem'
 ## git branch -u origin/main new-branch
 ## git push -u origin new-branch
+
+# Comitar
+## git pull
+## git merge main
+## git add .
+## git git commit -m "teste"
+## git push
